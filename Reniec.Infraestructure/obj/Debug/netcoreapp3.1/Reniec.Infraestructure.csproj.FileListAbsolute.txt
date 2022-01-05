@@ -1,0 +1,12 @@
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\bin\Debug\netcoreapp3.1\Reniec.Infraestructure.deps.json
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\bin\Debug\netcoreapp3.1\Reniec.Infraestructure.dll
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\bin\Debug\netcoreapp3.1\Reniec.Infraestructure.pdb
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\bin\Debug\netcoreapp3.1\Reniec.Domain.dll
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\bin\Debug\netcoreapp3.1\Reniec.Domain.pdb
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.AssemblyInfo.cs
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.csproj.CopyComplete
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.dll
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Infraestructure\obj\Debug\netcoreapp3.1\Reniec.Infraestructure.pdb

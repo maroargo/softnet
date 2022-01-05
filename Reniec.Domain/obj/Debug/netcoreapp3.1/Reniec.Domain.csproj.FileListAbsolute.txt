@@ -1,0 +1,8 @@
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\bin\Debug\netcoreapp3.1\Reniec.Domain.deps.json
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\bin\Debug\netcoreapp3.1\Reniec.Domain.dll
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\bin\Debug\netcoreapp3.1\Reniec.Domain.pdb
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\obj\Debug\netcoreapp3.1\Reniec.Domain.AssemblyInfoInputs.cache
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\obj\Debug\netcoreapp3.1\Reniec.Domain.AssemblyInfo.cs
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\obj\Debug\netcoreapp3.1\Reniec.Domain.csproj.CoreCompileInputs.cache
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\obj\Debug\netcoreapp3.1\Reniec.Domain.dll
+C:\Users\V330\source\repos\SOFT _NET\Reniec.Domain\obj\Debug\netcoreapp3.1\Reniec.Domain.pdb

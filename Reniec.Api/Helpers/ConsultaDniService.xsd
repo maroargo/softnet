@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI (http://jaxws.java.net). RI's version is JAX-WS RI 2.3.0-b170407.2038 svnrevision#2eaca54d17a59d265c6fe886b7fd0027836c766c. -->
+<xsd:schema xmlns:ns0="http://endpoint.wsconsultadni.reniec.gob.pe/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ targetNamespace="http://endpoint.wsconsultadni.reniec.gob.pe/">
+ <xsd:complexType name="peticionActualizarCredencial">
+ <xsd:sequence>
+ <xsd:element name="credencialAnterior" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="credencialNueva" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="nuDni" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="nuRuc" type="xsd:string" minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+ <xsd:complexType name="peticionConsulta">
+ <xsd:sequence>
+ <xsd:element name="nuDniConsulta" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="nuDniUsuario" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="nuRucUsuario" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="password" type="xsd:string" minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+ <xsd:complexType name="peticionConsultaCertificado">
+ <xsd:sequence>
+ <xsd:element name="accessToken" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="nuDniConsulta" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="nuRucUsuario" type="xsd:string" minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+ <xsd:complexType name="resultadoActualizacionCredencial">
+ <xsd:sequence>
+ <xsd:element name="coResultado" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="deResultado" type="xsd:string" minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+ <xsd:complexType name="resultadoConsulta">
+ <xsd:sequence>
+ <xsd:element name="coResultado" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="deResultado" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="datosPersona" type="ns0:datosPersona"
+minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+ <xsd:complexType name="datosPersona">
+ <xsd:sequence>
+ <xsd:element name="dni" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="prenombres" type="xsd:string" minOccurs="0"/>
+ <xsd:element name="primerApellido" type="xsd:string"
+minOccurs="0"/>
+<xsd:element name="apellidoCasada" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="segundoApellido" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="fechaNacimiento" type="xsd:string"
+minOccurs="0"/>
+ <xsd:element name="genero" type="xsd:string" minOccurs="0"/>
+
+ <xsd:element name="estadoCivil" type="xsd:string" minOccurs="0"/>
+
+
+ <xsd:element name="restriccion" type="xsd:string" minOccurs="0"/>
+ </xsd:sequence>
+ </xsd:complexType>
+</xsd:schema>
